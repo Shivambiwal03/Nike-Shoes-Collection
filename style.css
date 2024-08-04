@@ -565,7 +565,7 @@ section .main .button:hover i{
     display: flex;
     justify-content: space-around;
     align-items: center;
-    background-image: url(image/loging_bg.png);
+    background-image: url(loging_bg.png);
     background-size: cover;
     background-position: center;
 }
